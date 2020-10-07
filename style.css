@@ -1,0 +1,31 @@
+.li-home{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.btn-circle {
+    background-color: blue;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+  }
+  .cen {
+    height: 200px;
+    position: relative;
+  }
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .whitecolor{
+      color: white;
+  }
